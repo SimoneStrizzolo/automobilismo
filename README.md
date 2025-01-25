@@ -41,3 +41,14 @@ Anno | Campione | Secondo | Terzo | Vincitore Berlino |
 2024 | Wehrlein | Evans | Cassidy | Cassidy, Da Costa
 2023 | Dennis | Cassidy | Evans | Evans, Cassidy
 2022 | Vandoorne | Evans | Mortara | Mortara, de Vries
+
+
+
+
+
+![F2](https://github.com/user-attachments/assets/1a223a85-7ee8-4f17-8fa3-a8bf7ea9b39e)
+![SF23](https://github.com/user-attachments/assets/34295f18-a927-4288-b31b-3b8c8fef01dc)
+![Gen3 Evo](https://github.com/user-attachments/assets/e25765e9-9e56-4abe-8aeb-b02ee242bcc8)
+
+
+
