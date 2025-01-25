@@ -3,10 +3,12 @@ La maggior parte dei campionati automobilistici è gestita dalla Federazione Int
 I campionati in USA non sono sotto controllo diretto della FIA ma dell'organizzazione satellite ACCUS.
 
 # Campionati mondiali
-La FIA riconosce sette campionati che assegnano il titolo di mondiale.
-- Formula One World Championship
-- World Endurance Championship
-- World Rally Championship
-- World Rally-Raid Championship
-- World Rallycross Championship
-- Formula E World Championship
+La FIA riconosce sei campionati che assegnano il titolo di mondiale.
+- FIA Formula One World Championship
+- ABB FIA Formula E World Championship
+- FIA World Endurance Championship
+- FIA World Rally Championship
+- FIA World Rallycross Championship
+- FIA World Rally-Raid Championship
+
+# [Formula E](https://www.fiaformulae.com/it)
