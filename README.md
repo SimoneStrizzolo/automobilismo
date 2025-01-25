@@ -19,3 +19,11 @@ L'attuale generazione di macchine è la Gen 3 Evo, che permette di raggiungere l
 Ottengono punti i primi 10 a traguardo (25pt al primo): 3 punti vengono dati al poleman e 1 a chi fa il giro veloce in gara.
 
 Una gara dura circa 30 giri (circa 45 minuti): durante la gara i piloti devono obbligatoriamente attivare per due volte la modalità *attack mode* che da loro un boost di potenza, e una volta devono fare un pit stop per ricaricare la batteria del 10%.
+
+In Italia non si corre più: le gare sono disponibili su Mediaset (Canale 20) oppure su Eurosport.
+
+Anno | Campione | Secondo | Terzo | Vincitore Berlino |
+---- | -------- | ------- | ----- | ----------------- |
+2024 | Wehrlein | Evans | Cassidy | Cassidy, Da Costa
+2023 | Dennis | Cassidy | Evans | Evans, Cassidy
+2022 | Vandoorne | Evans | Mortara | Mortara, de Vries
