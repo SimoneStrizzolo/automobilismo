@@ -24,6 +24,8 @@ I circuiti sono solitamente cittadini per attrarre pubblico. Il campionato è re
 
 ### Macchine e prestazioni
 L'attuale generazione di macchine è la Gen 3 Evo, che permette di raggiungere la velocità massima di 320km/h e di fare da 0 a 100km/h in 1.86s, più veloci del 30% rispetto ad una Formula 1. Le gomme sono fornite da Hankook e i motori elettrici sono creati dai vari costruttori.
+![image](https://github.com/user-attachments/assets/d177c62b-c017-4298-a338-e94ae84a1e49)
+
 
 ### Gare
 Ottengono punti i primi 10 a traguardo (25pt al primo): 3 punti vengono dati al poleman e 1 a chi fa il giro veloce in gara. Una gara dura circa 30 giri (circa 45 minuti): durante la gara i piloti devono obbligatoriamente attivare per due volte la modalità *attack mode* che da loro un boost di potenza, e una volta devono fare un pit stop per ricaricare la batteria del 10%.
