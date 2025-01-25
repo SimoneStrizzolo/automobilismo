@@ -24,7 +24,8 @@ I circuiti sono solitamente cittadini per attrarre pubblico. Il campionato è re
 
 ### Macchine e prestazioni
 L'attuale generazione di macchine è la Gen 3 Evo, che permette di raggiungere la velocità massima di 320km/h e di fare da 0 a 100km/h in 1.86s, più veloci del 30% rispetto ad una Formula 1. Le gomme sono fornite da Hankook e i motori elettrici sono creati dai vari costruttori.
-![image](https://github.com/user-attachments/assets/d177c62b-c017-4298-a338-e94ae84a1e49)
+![image](https://github.com/user-attachments/assets/9c1e89c9-8977-4add-b92c-15805b0eaaf6)
+
 
 
 ### Gare
